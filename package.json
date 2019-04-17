@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zipline/nACH.git"
+    "url": "https://github.com/NagRamachandran/nACH2"
   },
   "engines": {
     "node": ">= 0.10.0"
